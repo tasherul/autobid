@@ -1,0 +1,268 @@
+.header-logo {
+    height: 63px;
+}
+
+.box-header {
+    position: relative;
+}
+
+#search-icon {
+    position: absolute;
+    right: 11%;
+    top: 50%;
+    transform: translate3d(-50%, -50%, 0);
+    font-size: 5px;
+    color: #fff;
+    display: none;
+}
+
+#front-header-search {
+    display: none;
+    position: absolute;
+    top: -190px;
+    left: 0;
+    width: 100%;
+    padding-top: 8px;
+    padding-bottom: 7px;
+    transition: 0.3s ease-in-out;
+}
+
+.front-header-search-from {
+    position: relative;
+    display: flex;
+    align-items: center;
+    box-shadow: none !important;
+
+}
+
+.border-soft-light {
+    border-radius: 25px;
+    margin-right: 12px;
+    padding-left: 20px;
+}
+
+.home_mobile_search_unactive {
+    background-color: transparent;
+    border: none;
+    font-size: 17px;
+    color: #555;
+    padding: 5px 15px;
+}
+
+.search-input-box {
+    position: relative;
+    width: 100%;
+    margin-right: 12px;
+}
+
+.search-input-box-icon {
+    position: absolute;
+    top: 7px;
+    right: 20px;
+    z-index: 111;
+    font-size: 21px !important;
+    color: #555;
+}
+
+.well {
+    padding: 0 !important;
+}
+
+.list-blog-top-title {
+    visibility: hidden;
+}
+
+.details-cars {
+    display: flex;
+    flex-flow: column;
+    font-size: 13px;
+}
+
+.list-star-desktop {
+    display: block;
+}
+
+#services {
+    display: block;
+}
+
+#header.box-header .box-header-wrap .main-nav>ul>li>a {
+    color: #fff !important;
+}
+
+#mobile_service {
+    visibility: hidden;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    z-index: 11;
+    width: 100%;
+    background-color: white;
+    /* box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px; */
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 3px 7px 2px;
+}
+
+.mobile-footer-menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 11px 12px;
+}
+
+.mobile-footer-menu a {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.mobile-footer-menu a i {
+    font-size: 25px;
+    color: #461d51;
+}
+
+.home-search-panel {
+    background: linear-gradient(to right, #461d51, #BE8C63) !important;
+}
+
+.alert-secondary {
+    background-color: #BE8C63;
+    border: 1px solid #BE8C63;
+    color: #050505;
+}
+
+.btn-blacks {
+    background: #050505;
+}
+
+.btn-blacks:hover {
+    background: #050505;
+}
+
+.btn-primary {
+    background: #461d51 !important;
+}
+
+.btn-primary:hover {
+    background: #BE8C63 !important;
+}
+
+.btn-default {
+    background-color: #050505;
+    color: #fff;
+}
+
+.btn-default:hover {
+    background-color: #BE8C63 !important;
+    color: #050505;
+}
+
+#header.static-header .main-nav>ul>li>a {
+    color: #fff !important;
+}
+
+.form-horizontal .form-group label {
+    color: #050505;
+}
+
+#header.sticky-header .main-nav>ul>li>a {
+    color: #fff;
+}
+
+@media only screen and (max-width: 768px) {
+    .header-logo {
+        height: 40px;
+    }
+
+    #header.static-header {
+        margin-top: 0;
+    }
+
+    .advanced-slider-wrapper {
+        /* padding-top: 0 !important; */
+    }
+
+    #front-header-search {
+        display: block;
+    }
+
+
+
+    .home-search-panel {
+        display: none;
+    }
+
+    .grid-box .cat-title {
+        font-size: 15px;
+    }
+
+    .grid-box .item-title {
+        font-size: 18px;
+    }
+
+    .details-cars {
+        display: flex;
+        flex-flow: inherit;
+    }
+
+    .details-cars .info-dta {
+        margin-left: 15px;
+    }
+
+    #search-icon {
+        display: block;
+    }
+
+    .list-car-blog-one {
+        padding: 8px 15px
+    }
+
+    .blog-one-item {
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    }
+
+    .blog-one-title {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 5px;
+    }
+
+    .list-blog-top-title {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        visibility: visible;
+        margin-top: 5px;
+    }
+
+    .list-star-desktop {
+        display: none;
+    }
+
+    .list-blog-icon {
+        font-size: 16px;
+    }
+
+    .list-blog-text {
+        font-size: 12px;
+    }
+
+    .blog-meta {
+        padding: 0;
+        margin: 0;
+        margin-top: 5px;
+    }
+
+    .list-pregraps {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+
+    #services {
+        display: none;
+    }
+
+    #mobile_service {
+        visibility: visible;
+    }
+}

@@ -1,0 +1,24 @@
+<package>
+	<contenttype>Update</contenttype>
+	<name>Update1.4.0</name>
+	<version>1.4.0</version>
+	<access_url></access_url>
+	<url></url>
+	<content>
+		<item>
+			<type>dir</type>
+			<src>application</src>
+			<dst>application</dst>
+		</item>
+		<item>
+			<type>dir</type>
+			<src>web_config</src>
+			<dst>web_config</dst>
+		</item>
+		<item>
+			<type>dir</type>
+			<src>system</src>
+			<dst>system</dst>
+		</item>
+	</content>	
+</package>

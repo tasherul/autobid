@@ -1,0 +1,827 @@
+---
+sign_in: შესვლა
+sign_up: რეგისტრაცია
+agent_panel: Agent Panel
+admin_panel: პანელი
+country: ქვეყანა
+state_province: შტატი / პროვინცია
+city: City
+register: რეგისტრაცია
+details: დეტალები
+view_all: ყველა
+order_by: Order By
+none: არცერთი
+terms_and_conditions: პირობები და ვადები
+reg_success_message: თქვენი ანგარიში რეგისტრაციის წარმატებული. ელ გაიგზავნა თქვენს ელ. გთხოვთ დაიცვას, რომ ელ ანგარიშის გასააქტიურებლად. მადლობა
+limit: Limit
+usage: გამოყენება
+recover: აღდგენა
+oops: გვერდი ვერ მოიძებნა
+share_this: გაუზიარე ეს
+location_map: საიდან რუკა
+image_gallery: ფოტო გალერეა
+gallery: გალერეა
+summary: რეზიუმე
+overview: მიმოხილვა
+address: მისამართი
+message: შეტყობინება
+email_subject: ელ თემა
+all: ყველა
+contact_us: დაგვიკავშირდით
+featured_video: რჩეული ვიდეო
+embed_video_url: Embeded Video Url
+email_tracker: ელ Tracker
+bulk_email: ნაყარი ელ
+advanced_filters: დამატებითი ფილტრები
+result: შედეგი
+payment_notification: თქვენ ვაპირებთ, რათა გადახდის. ელ იგზავნება თქვენს ელ. თქვენ შეგიძლიათ უკან ეს ნაბიჯი ნებისმიერ დროს ბმული, რომ ელ.
+confirmation: დადასტურების
+tags: Tags
+zip_code: Zip კოდი
+embed_preview: Embed Preview
+login: შესვლა
+post_not_found: Post არა ნაპოვნია
+view_more: ვრცლად
+choose_a_package: არჩევა პაკეტი
+choose_feature_package: არჩევა ფუნქცია პაკეტი
+no_package_found: პაკეტი არ არის ნაპოვნი
+days: Days
+posts: პოსტები
+change: შეცვლა
+subscribe: გამოწერა
+image: Image
+view_on_map: View on რუკა (Auto შეავსოთ Lat lang)
+create: შექმნა
+basic_info: ძირითადი ინფორმაცია
+send: პირადი
+all_email_to_users: წერილებს მომხმარებელი
+email_detail: Email დეტალურად
+change_package: შეცვლა პაკეტი
+bank_transfer: საბანკო გადარიცხვა
+contact_subject: საკონტაქტო ელ-ფოსტა
+payment_finish_title: გადახდა სრული
+payment_renew_title: გადახდა სრული
+payment_finish_text: თქვენი გადახდა დასრულებულია. როგორც კი ჩვენ მივიღეთ დასტური paypal თქვენი ანგარიში ამოქმედდება
+payment_renew_text: თქვენი გადახდა დასრულებულია. როგორც კი ჩვენ მივიღეთ დასტური paypal თქვენი ანგარიში იქნება განახლებული
+payment_cancel_title: გადახდის გაუქმება
+payment_cancel_text: თქვენი გადახდის უქმდება
+feature_payment_finish: თქვენი გადახდა დასრულებულია. როგორც კი მივიღებთ დასტურს paypal, თქვენი ქონების იქნება მხატვრის.
+feature_payment_cancel: თქვენი გადახდის უქმდება.
+selected_package: არჩეული პაკეტის
+signup_with_social_account: რეგისტრაცია ერთად სოციალური ანგარიში
+password: პაროლი
+confirm_password: პაროლის დასტური
+all_posts: ყველა პოსტები
+no_posts: არ არის შეტყობინებები
+title: სათაური
+description: აღწერა
+status: სტატუსი
+actions: აქციები
+action: აქცია
+type: ტიპი
+type_something: ტიპი რაღაც
+content: კონტენტი
+featured_image: რჩეული [min 300x226]
+category: Car კატეგორიები
+all_categories:ყველა მანქანა კატეგორიები
+edit_category: Edit მიხედვით
+new_category: ახალი მანქანის მიხედვით
+parent: მშობელი
+edit: რედაქტირება
+delete: წაშლა
+name: სახელი
+save: Save
+no_parent: არ მშობელს
+edit_email_template: Edit ელ თარგი
+select_template_file: აირჩიეთ შაბლონი
+subject: თემა
+body: Body
+available_variables: ხელმისაწვდომია ცვლადები
+select_language: აირჩიეთ ენა
+select_language_file: ენის არჩევა ფაილი
+edit_as_new: Edit როგორც ახალი
+language: ენა
+add_another: დამატება სხვა
+export_to_file: ექსპორტი შეიტანოს
+import_from_file: იმპორტი ფაილი
+auto_translator: Auto მთარგმნელი
+from_lang: საწყისი lang
+target_lang_full_name: Target lang სრული სახელი
+target_lang_short_name: Target lang შემოკლებული სახელწოდება
+create_new_package: შექმნა ახალი პაკეტი
+price: ფასი
+ask_for_price: გააქვთ ფასი
+maximum_post_by_user: მაქსიმალური წერილის მოძებნა შესახებ
+expiration_time: გასვლის დრო (დღე)
+create_package: შექმნა პაკეტი
+edit_package: Edit პაკეტი
+update_package: განახლების პაკეტი
+add_packages: რჩეულებში პაკეტების
+all_packages: ყველა პაკეტების
+no_packages: პაკეტები
+options: პარამეტრები
+all_pages: ყველა გვერდს
+no_pages: გვერდები
+manage_menu: მართვა მენიუ
+menu_title: მენიუ დასახელება
+menu_alias: მენიუ alias
+show_in_menu: Show მენიუს
+page_layout: განლაგება
+content_from: შინაარსის
+url: Url
+seo_options: SEO პარამეტრები
+meta_description: Meta აღწერა
+key_words: საკვანძო სიტყვები
+crawl_after: Crawl შემდეგ (დღე)
+all_plugins: ყველა plugins
+no_plugins: არარის plugins
+name_and_version: სახელი და ვერსია
+change_password:პაროლის შეცვლა
+current_password: მიმდინარე პაროლი
+new_password: ახალი პაროლი
+retype_password: განმეორებით დაგავიწყდათ
+password_reset_info_msg: გთხოვთ პირველი კომპლექტი ახალი პაროლი
+profile_picture: სურათის
+username: ნიკი
+email: Email
+first_name: სახელი
+last_name: გვარი
+gender: სქესი
+phone: ტელეფონი
+company_name: კომპანიის სახელი
+about_me: About Me
+facebook_account: Facebook ანგარიშის
+twitter_account: Twitter ანგარიშზე
+linkedin_account: Linkedin ანგარიშზე
+gp_account: Google+ ანგარიშზე
+account_msg: გთხოვთ მიუთითოთ ბმული გარეშე http //
+web_email_settings: Web ფოსტის პარამეტრები
+contact_email: საკონტაქტო ელ
+webadmin_name: Webadmin სახელი
+webadmin_email: Webadmin Email
+update: განახლების
+upload: ატვირთვა
+site_settings: საიტის პარამეტრები
+site_title: საიტის დასახელება
+footer_text: Footer ტექსტი
+site_logo: Site Logo
+site_language: საიტის ენა
+site_text_direction: საიტის ტექსტის მიმართულება
+per_page: Pagination პერ გვერდი
+default_page_layout: Default გვერდი განლაგება
+tracking_code: Tracking Code
+smtp_email_settings: SMTP ფოსტის პარამეტრები
+smtp_email: SMTP Email
+smtp_host: SMTP მასპინძელი
+smtp_port: SMTP პორტი
+smtp_timeout: SMTP შეყოვნება
+smtp_user: SMTP მომხმარებელი
+smtp_password: SMTP პაროლი
+generate_site_map: გენერაცია საიტის რუკა
+sitemap_info_msg: NB გთხოვთ აირჩიოთ რომელიც გსურთ რომ იყოს ჩართული sitemap xml. მას შემდეგ, რაც წარმატებული თაობის sitemap.xml გადაარჩინა ქვეშ root დირექტორია. თქვენ ასევე შეგიძლიათ შეცვალონ, რომ ფაილი მათ შორის საკუთარი მისამართები.
+pages: გვერდები
+blog_posts: დღიური პოსტები
+articles: სტატიები
+blog_post: დღიურში
+blog: პოსტი
+article: მუხლი
+news: News
+view_xml: View XML
+create_xml: შექმნა XML
+manage_backups: მართვა სარეზერვო
+create_sql_backup:შექმნა SQL სარეზერვო
+create_image_backup: შექმნა გამოსახულება Backup
+restore: აღდგენა
+download: ჩამოტვირთვა
+dashboard: Dashboard
+overview_stats_more: მიმოხილვა, სტატისტიკა და სხვა
+visit_site: ეწვიეთ საიტის
+logout: გამოსვლა
+themes: თემები
+locations: Locations
+paypal_settings: Paypal პარამეტრები
+payment_history: გადახდის ისტორია
+profile: მომხმარებლის
+packages: პაკეტები
+widgets: Widgets
+all_widgets: ყველა Widgets
+widget_positions: Widget თანამდებობები
+blog_news_article: დღიური / ახალი ამბები / მუხლი
+new_post: New Post
+pages_and_menu: გვერდები & მენიუ
+new_page: New Page
+menu: მენიუ
+system: სისტემის
+manage_languages: მართვა ენები
+auto_translate: Auto Translate
+edit_email_text: შესწორება ელ Text
+admin_settings: ვებ Admin პარამეტრები
+sitemap: საიტის რუკა
+activate: გააქტიურება
+active_theme: აქტიური თემა
+available_themes: ხელმისაწვდომია თემები
+all_users: ყველა მომხმარებელი
+create_user: შექმნა მომხმარებელი
+export_user_email: ექსპორტი მომხმარებელი წერილებს (CSV)
+profile_info: მომხმარებლის პროფილი
+ban_forever: Ban Forever
+edit_page: Edit Page
+create_widget: შექმნა Widget
+widget_name: Widget სახელი
+activate_deactivate: ჩართვა / De-გააქტიურება
+show: Show
+available_widgets: ხელმისაწვდომია Widgets
+active_widgets: აქტიური Widgets
+delete_warning: დარწმუნებული ხართ, რომ გსურთ წაშალოთ
+yes: "დიახ"
+no: , "არა"
+product_name: Content
+fa_icon: FA ხატი კლასის
+post_ad: რჩეულებში მანქანის
+post_ad_subtitle: თქვენს მანქანაში ინფორმაცია
+signin: ავტორიზაცია
+signup: რეგისტრაცია
+signup_title: შექმნათ თქვენი ანგარიში
+not_found:არ არის ნაპოვნი
+purpose: დანიშნულება
+purpose_buy: ყიდვა
+purpose_sell: გაყიდვა
+select_category: აირჩიეთ კატეგორია
+contact_for_price: Contact ფასი
+address_info: მისამართი ინფორმაცია
+general_info: ზოგადი ინფორმაცია
+upload_later_msg: თქვენ შეძლებთ ატვირთოთ გალერეა ფოტო და ვიდეო url შემდეგ პოსტის შექმნის
+user_panel: მომხმარებელი პანელი
+put_as_comma_seperated: დააყენოს, (,) მძიმით sperated
+added: დამატებულია
+location: საიდან
+views: ნანახია
+package_type: ტიპი
+post_package: Post პაკეტი
+featured_package: გამორჩეული პაკეტი
+both_package: Post და გამორჩეულ
+select_package: აირჩიეთ პაკეტი
+package_created: პაკეტი ის
+package_updated: პაკეტი მხრიდან
+slider: Slider
+add_new: ახალი
+new_slide: ახალი slide
+update_slide: განახლების slide
+save_order: Save მიზნით
+slider_sort_instruction: შეგიძლიათ გადაიტანეთ ჩამოაგდეს დასალაგებლად მაგიდა რიგები. დახარისხების შემდეგ save ბრძანების
+search: ძებნის
+results: შედეგები
+location_on_map: ადგილმდებარეობა რუკაზე
+contact_mode: კონტაქტი რეჟიმი
+reset: აღდგენა
+contact: Contact
+default_site_view: Default საიტის კალენდარი
+type_your_message: შეიტანეთ თქვენი გზავნილი აქ ..
+mail_sent: Mail გაგზავნილი
+search_classifieds: ძებნა ტრანსპორტი
+advanced_search: გაფართოებული ძიება
+narrow_down_your_search: ვიწრო down ძებნა
+home: საწყისი
+print: Print
+remember_me: დამიმახსოვრე
+forgot_password: პაროლის
+login_failed: შესვლა ვერ
+login_to_your_account: შეხვიდეთ თქვენს ანგარიშზე
+register_your_account: რეგისტრაცია თქვენი ანგარიში
+male: კაცი
+female: ქალი
+no_location_found: არარის საიდან ნაპოვნია
+state: სახელმწიფო
+ad_creation_error: შეცდომა რეკლამა შექმნა! გთხოვთ შეამოწმოთ.
+users: მომხმარებელი
+show_admin_user: ჩვენება Admin User
+send_email_to_owner:ელფოსტის გაგზავნა მანქანის მფლობელი
+categories: კატეგორიები
+top_posts: ტოპ პოსტები
+show_state_province: Show სახელმწიფო პროვინციაში
+package_settings: პაკეტი პარამეტრები
+default_site_settings: Default საიტის პარამეტრები
+webadmin_settings: Webadmin პარამეტრები
+banner_settings: Banner პარამეტრები
+max_price_for_search: Max ფასი ძიება
+search_filters: ძიება ფილტრები
+posts_per_page: პოსტი Page
+recent_posts: ბოლო Cars
+featured_posts: გამორჩეული პოსტები
+top_locations: ყველაზე Locations
+top_users: ყველაზე მომხმარებელი
+approve: მოწონება
+make_featured: ჩადება გამორჩეული
+remove_featured: Remove გამორჩეულ
+renew_featured: განახლება გამორჩეული
+renew_package: განახლება პაკეტი
+no_renew_post_id: არასწორი განაახლებს პოსტი id
+approve_payment: მოწონება გადახდის
+transaction: Transaction
+transaction_id: Transaction id
+post_id: Post id
+amount: სახეობა
+request_date: მოთხოვნა თარიღი
+expiration_date: ვადის გასვლის თარიღი
+transaction_deleted: Transaction წაშლილი
+payment_approved: გადახდის დამტკიცებული
+logged_in_as: შესული
+posted_on: გამოგზავნილია on
+confirm_email_send: დადასტურებას ელ send.Please მიჰყევით ინსტრუქციას, რომ ელ.
+email_confirmed: ელ-ფოსტის გაგზავნა დადასტურდა. თქვენ შეგიძლიათ შეხვიდეთ ახლა
+email_confirmed_failed: Email დადასტურება ვერ
+password_change_success: პაროლი წარმატებით შეიცვალა
+email_sent_inbox: ელ გააგზავნეთ თქვენი inbox.Check რომ ელ.
+password_recovery_link_invalid: პაროლის აღდგენა ბმული არასწორია
+user_updated: მომხმარებელი განახლებულია
+user_deleted: მომხმარებელი წაიშალა
+user_banned: მომხმარებელი აკრძალული
+user_unbanned: მომხმარებელი Unbanned
+user_confirmed: პროფაილი დადასტურებული
+post_deleted: Post Deleted
+post_updated: Post განახლებულია
+post_created: Post შექმნილია
+post_featured: Post გამორჩეულ
+data_inserted: მონაცემები ჩასმული
+data_updated: მონაცემების განახლება
+feature_renewed: მხატვრული განახლებული
+post_feature_removed: Post მხატვრული ამოღებულია
+post_approved: Post დამტკიცებულია
+invalid_post: არასწორი Post
+email_sent:Email გაგზავნილი
+settings_updated: პარამეტრები განახლებულია
+package_removed: პაკეტი ამოღებულია
+page_updated: გვერდი განახლებულია
+page_created: გვერდი შექმნილია
+page_deleted: გვერდი Deleted
+menu_updated: მენიუ განახლდა
+site_map_generation_success: საიტის რუკა გამომუშავებული წარმატებით.
+select_option: გთხოვთ, აირჩიოთ ან მეტი აირჩიეთ პარამეტრები.
+image_backup_created: იმიჯი სარეზერვო შექმნილია
+language_translated: ენა თარგმნა
+unable_to_write_file: ვერ ვწერ ფაილის
+backup_deleted: სარეზერვო ამოღებულია
+database_restored: მონაცემთა ბაზა აღადგინა
+theme_activated: Theme გააქტიურებული
+user_created: მომხმარებლის შექმნა
+widget_position_updated: Widget თანამდებობა განახლდა
+widget_created: Widget შექმნილია
+widget_data_updated: Widget მონაცემების განახლება
+unable_to_write_widget: ვერ ვწერ ვიჯეტის
+post_created_and_published: Post შეიქმნა და გამოიცა
+post_created_approval: Post ის და ელოდება admin დამტკიცების
+post_package_renewed: Post პაკეტი განახლებული
+payment_finish: გადახდის ფერი
+payment_cancelled: გადახდა გაუქმდა
+admin_change_pass_help: დატოვეთ ცარიელი თუ არ შეცვლის საჭირო
+go_to_paypal: Go to Paypal
+login_with_google: შესვლა with Google
+login_with_facebook: Login with Facebook
+load_more_recent_posts: შეიტყვეთ მეტი ბოლო Cars
+load_more_featured_posts: შეიტყვეთ მეტი Featured Cars
+register_for_new_account: რეგისტრაცია ახალი ანგარიშის
+site_map: საიტის რუკა
+show_site_map: Show საიტის რუკა
+service: სამსახურის
+features: მახასიათებლები
+about: მომხმარებლის
+view_posts: პოსტების ნახვა
+see_full_documentation: იხილეთ სრული დოკუმენტაცია
+select_city: აირჩიეთ ქალაქი ქალაქი:
+parallax_slider: Parallax Slider
+all_slides: ყველა სლაიდები
+no_slide: არ slide
+slide_order: Slide რათა
+edit_profile: Edit ნახვა
+post_price_settings: Post ფასი პარამეტრების
+enable_post_pricing: ჩართვა პოსტი ფასების
+enable_paypal_transfer: ჩართვა paypal
+enable_bank_transfer: ჩართვა საბანკო გადარიცხვა
+bank_transfer_instruction_for_posts: , საბანკო გადარიცხვა ინსტრუქციის
+featured_price_settings: რჩეული ფასი პარამეტრების
+enable_featured_pricing: ჩართვა გამორჩეული ფასების
+enable_featured_paypal: ჩართვა paypal
+enable_featured_bank_transfer:ჩართვა საბანკო გადარიცხვა
+bank_transfer_instruction_for_featured_posts: საბანკო გადარიცხვა დავალებით
+bank_currency_settings: ბანკის სავალუტო პარამეტრების
+bank_currency: ბანკის სავალუტო
+use_same_as_paypal_currency: გამოიყენეთ იგივე როგორც paypal ვალუტა
+admin: admin
+re_password: გაიმეორეთ პაროლი
+explain_widget_position: ახსენით ელემენტის პოზიციები
+post: Post
+post_renew: Post განახლება
+feature: მხატვრული
+feature_renew: მხატვრული განახლება
+payment_for: გადახდა
+select_country: აირჩიეთ ქვეყანა
+select_one: აირჩიეთ ერთი
+video_url: Vidoe URL
+confirm_payment: დაადასტურეთ გადახდის
+package_title: პაკეტი დასახელება
+number_of_featured_days: დღეების რაოდენობა უნდა გამორჩეულ
+no_of_days: არარის დღის
+any_city: ნებისმიერ City
+any_category: კატეგორია
+product_admin_panel: Carbiz ადმინ
+username_or_email: სახელი ან ელ
+car_detail: Car დეტალურად
+posts_by: წერილის
+featured: მთავარი
+edit_user: Edit შესახებ
+the_field_is_required: % s სფეროში აუცილებელია.
+valid_email: % S სფეროში უნდა შეიცავდეს მოქმედი ელექტრონული ფოსტის მისამართი.
+min_length: % S ველი უნდა იყოს მინიმუმ% s სიმბოლო.
+numeric: % S სფეროში უნდა შეიცავდეს მხოლოდ ციფრებს.
+matches: % S სფეროში არ შეესაბამება% s სფეროში.
+greater_than: % S სფეროში უნდა შეიცავდეს რაოდენობის მეტია% s.
+agree_terms: მე წავიკითხე% s ვადები და პირობები% s
+must_accept_terms: თქვენ უნდა მიიღოს პირობები და ვადები
+dont_have_permission: თქვენ არ გაქვთ ამ გვერდზე წვდომის
+email_already_in_use: Email უკვე გამოიყენება
+username_already_in_use: სახელი უკვე გამოიყენება
+current_password_not_matched: მიმდინარე პაროლი არ ემთხვევა
+email_or_password_not_mathed: Email და პაროლი არ ემთხვევა
+email_not_matched: Email არ შეესაბამება
+account_not_confirmed: ანგარიში არ დასტურდება
+all_locations: ყველა ადგილას
+add_country: რჩეულებში ქვეყნის
+add_state: სანიშნეს სახელმწიფო
+add_city: რჩეულებში ქალაქში
+no_locations: ადგილები არ
+banner_type: Banner ტიპის
+bg_image: ფონის სურათის
+unique_alias: % s სფეროში უნდა იყოს უნიკალური
+error_occurred: შეცდომა. გთხოვთ შეამოწმოთ ქვემოთ მოცემული ველები
+user_profile: მომხმარებელი ნახვა
+user_email:User ელ
+target_lang_name: ენა
+no_emails: არ წერილებს
+to: To
+classified_settings: განცხადებები პარამეტრები
+publish_posts_directly: გამოქვეყნება შეტყობინება პირდაპირ
+system_currency: სისტემის ვალუტის
+enable_signup: ჩართვა რეგისტრაციის
+if_package_expired: თუ პაკეტი ვადაგასული
+do_not_hide: არ მალავს
+hide: დამალვა
+show_price_like: ფასი ფორმატი
+facebook_app_settings: Facebook app პარამეტრების
+enable_facebook_login: ჩართვა facebook login
+fb_app_id: Facebook app id
+fb_secret_key: Facebook საიდუმლო გასაღები
+comment_settings: კომენტარი პარამეტრების
+enable_comment: ჩართვა კომენტარის
+disqus_shortname: Disqus SHORTNAME
+sandbox_mode: Sandbox რეჟიმი
+item_name: საქონელი სახელი
+paypal_email: Paypal ელ
+currency: ვალუტა
+finish_url: Finish url
+cancel_url: გაუქმება url
+menu_background: მენიუ ფონზე
+menu_text_color: მენიუ ტექსტის ფერი
+activated_menu_color: გააქტიურებული menu ფერი
+top_bar_bg: ყველაზე ბარი bg
+activated_menu_text_color: გააქტიურებული მენიუ ტექსტის ფერი
+latitude: გრძედი
+longitude: გრძედი
+map_zoom: რუკა zoom
+search_panel_settings: ძებნის პანელი პარამეტრების
+search_panel_bg_color: ძებნის პანელი bg ფერი
+show_background_image: Show background image
+active_widget_position: აქტიური ელემენტის პოზიცია
+upload_and_install: ატვირთვა და ინსტალაცია
+install_updates: დააინსტალირეთ განახლება / თემები / plugins / Widgets
+confirmation_email: დადასტურებას ელ
+recovery_email: აღდგენის ელფოსტა
+signup_notification_email: რეგისტრაცია შეტყობინება ელ-ფოსტის გაგზავნა
+payment_confirmation_email: გადახდის დამადასტურებელ წერილში
+click_and_edit: აირჩიეთ შაბლონი და დააჭირეთ რედაქტირება]
+google_analytics_settings: Google AnalyticsSettings
+default_seo_settings: Default SEO პარამეტრების
+find_us_on_facebook: გვიპოვეთ Facebook
+category_featured_posts: მთავარი შეტყობინება
+load_more_posts: შეიტყვეთ მეტი
+home_page_title: ძებნა ყიდვა გაყიდვა ავტო
+no_posts_found: შეტყობინებები
+type_anything: აკრიფოთ არაფერი
+chosen_not_found: Oops, არაფერია ნაპოვნი!
+rating_asc:რეიტინგი ზრდის მიხედვით კლების
+rating_desc: რეიტინგი კლებადი
+id_desc: Id კლებადი
+id_asc: Id ზრდადი
+price_range: ფასი Range
+additional_features: დამატებითი თვისებები
+add_more_fields: დამატება სფეროებში
+remove: ამოღება
+distance_around_my_position: ძებნა რადიუსში
+show_distance_in: Show მანძილი
+car_listed: ავტო გამოქვეყნების
+show_street_view: Show Street View
+list_car: სია Car
+search_cars: ძებნა ტრანსპორტი: ავტომანქანები
+top_cars: ყველაზე Cars
+featured_cars: მთავარი Cars
+content_settings: შინაარსის პარამეტრები
+hide_email: დამალვა ელ
+hide_phone: დამალვა ტელეფონი
+review: მიმოხილვა
+comment: Comment
+submit_review: მიმოხილვის
+rating: რეიტინგი
+review_alert: თქვენ უნდა იყოს შესული წარუდგინოს მიმოხილვა.
+new_car: რჩეულებში მანქანის
+identify_my_location: იდენტიფიცირება ჩემი ადგილმდებარეობა
+data_deleted: მონაცემები წაიშალოს
+recent_reviews: ბოლო მიმოხილვები
+view_all_reviews: ყველა მიმოხილვა
+review_deleted: მიმოხილვა წაიშალა
+review_detail: დეტალურად
+all_reviews: ყველა მიმოხილვა
+monday: ორშაბათი
+tuesday: სამშაბათი
+wednesday: ოთხშაბათი
+thursday: ხუთშაბათი
+friday: პარასკევი
+saturday: შაბათი
+sunday: კვირა
+opening_hour: გახსნის საათობრივად
+closed: Closed
+review_submitted: მიმოხილვა წარმოდგენილი
+social_links: სოციალური კავშირების
+upgrade_browser: განახლება ბრაუზერის
+please_upgrade_your_browser: განაახლეთ თქვენი ბრაუზერის
+car: Car
+introduction: შესავალი
+terms: პირობები და ვადები
+email_not_found: Email არ არის ნაპოვნი
+city_dropdown: City dropdown
+published: გამოქვეყნებულია
+publish: გამოქვეყნება
+drafted: პროექტი
+draft:პროექტის
+from: საწყისი
+send_bulk_email: ნაყარი ელ
+ive_read_the: მე წავიკითხე
+title_city_category: დასახელება, ქალაქი ან კატეგორიაში
+dt_first: პირველი
+dt_last: ბოლო
+dt_next: შემდეგი
+dt_prev: წინა
+dt_no_data: მონაცემები არ არის მაგიდის
+dt_show_empty: ჩვენება 0 0 of 0 მასალა
+dt_no_match: არ არის შესაბამისი ჩანაწერი ვერ იქნა ნაპოვნი
+dt_search: ძებნა
+dt_processing: დამუშავება ...
+dt_loading: Loading ...
+dt_info: ჩვენება _START_ to _END_ of _TOTAL_ მასალა
+dt_filter_info: (გაფილტრული საწყისი _MAX_ სულ entries)
+dt_show_entries: ჩვენება _MENU_ მასალა
+get_directions: მიიღეთ მიმართულება
+review_not_submitted : თქვენ უკვე გადაეცა მიმოხილვა
+debug_email : Debug ელ
+email_to : -ფოსტა
+report_the_car : შეცდომითი მანქანის
+reported : იტყობინება
+already_reported : უკვე ცნობით
+reported_post : იტყობინება მანქანები
+all_reported_posts : იტყობინება მანქანა
+report: ანგარიში
+assigned_to: ენიჭება
+select_assigned_to: აირჩიეთ შესახებ
+css_compression: Css შეკუმშვის
+gallery_notes: თქვენ არ შეგიძლიათ გადაიტანეთ წვეთი reorder გალერეა ფოტო. ფოტოები არ არის ხელახლა ზომის.
+video_notes: Youtube და Vimeo url
+post_expiration_notification: Post გასვლის შეტყობინება
+days_left: დღე დარჩა
+AM: AM
+PM: PM
+upload_invalid_min_dimensions: იმიჯი განზომილება ძალიან დაბალია
+view_on_front: View წინა
+clear_unused_img: Clear გამოუყენებელი images
+unused_files_found: გამოუყენებელი ფაილი ნაპოვნი
+unused_images_cleared: გამოუყენებელი სურათები განუბაჟებელი
+unused_info_msg: ეს ფუნქცია მხოლოდ წინანდელ სურათები, რომლებიც არ გამოიყენება მანქანები, მომხმარებლებს, კატეგორიები, გვერდები, ბლოგები. იგი ეძებს მონაცემთა ბაზის საშუალებით მოძიების images.So თუ თქვენ მექანიკურად აიტვირთა ნებისმიერი სურათები ხელით და გამოიყენება მათ ფარგლებში კოდი, შეიძლება წაიშალოს.
+no_unused_img: არარის გამოუყენებელი გამოსახულება აღმოაჩინეს
+search_panel_filter_type: Filter ტიპის
+basic_options: ძირითადი პარამეტრები
+advanced_options: წინასწარ პარამეტრები
+sorting_order: დახარისხება რათა
+car_listed_on: Car ჩამოთვლილი
+car_listed_under: Car ჩამოთვლილი
+all_sub_categories: ყველა ქვე კატეგორიები
+no_sub_categories: არარის ქვე კატეგორიები
+hide_my_email : დამალვა ჩემი ელექტრონული ფოსტის
+disable_email_contact:Disable ელ კონტაქტის
+enable_review: ჩართვა მიმოხილვა
+disable_google_street_view: გამორთვა Google Street View
+location_chorome_msg: საიდან მომსახურება google მიუწვდომელია არასამთავრობო ssl საიტები (მხოლოდ Chrome ბრაუზერი). გსურთ გამოიყენოთ თქვენი IP მისამართი, მიღების თქვენი ადგილმდებარეობა? NB- შედეგი არ შეიძლება იყოს ზუსტად იგივე, როგორც google
+send_email_to_users: პირადი ელ მომხმარებლებს
+show_banner: ჩვენება banner
+hide_my_phone: დამალვა ჩემი ტელეფონი
+kms: Kms
+miles: Miles
+logo_text: Logo Text
+logo_type: Logo ტიპი
+logo_text_color: ლოგო ტექსტის ფერი
+Jan: Jan
+Feb: Feb
+Mar: Mar
+Apr: Apr
+May: მაისი
+Jun: ივნ
+Jul: ივლ
+Aug: აგვ
+Sep: სექ
+Oct: ოქტ
+Nov: ნოე
+Dec: დეკ
+show_search_panel: Show ძებნის პანელი
+delete_selected: წაშლა შერჩეული
+map_api_key: Gmap API გასაღები
+pricing: ფასები
+post_package_instruction: ჩვენ გვაქვს შემდეგი პაკეტები გასაკრავი მანქანის ჩვენს ვებგვერდზე
+feature_package_instruction: ჩვენ გვაქვს შემდეგი პაკეტების მიღების მანქანის გამორჩეულ
+MENU: MENU
+gplus_app_settings: Google+ app პარამეტრების
+auth_redirect_url: ავტორიზებული გადამისამართება URL
+enable_gplus_login: ჩართვა Google+ შესვლის
+gplus_client_id: Google+ კლიენტს ID
+gplus_client_secret: Google+ კლიენტს საიდუმლო
+how_to_get_gplus_api: როგორ მივიღოთ Google+ კლიენტის ID და საიდუმლო
+gallery_upload_limit: გალერეა ატვირთვის ლიმიტი
+you_can_upload_max: თქვენ შეგიძლიათ ატვირთოთ მაქსიმუმ
+gallery_photos: ფოტო გალერეა
+advanced_options_with_country_state: წინასწარი ვარიანტი ქვეყნის და სახელმწიფო
+select_state: Select სახელმწიფო
+recent_posts_order: ბოლო პოსტი შეკვეთა
+featured_posts_order: მთავარი შეტყობინება შეკვეთა
+default_posts_order: Default შეტყობინება შეკვეთა
+ASC: აღმავალი
+DESC: კლებადი
+RANDOM: შემთხვევითი
+useremail: მომხმარებელი ელ
+enable_adblocker_alert: ჩართვა adblock მისაერთებელი მოდულის alert
+adblock_detected: Adblock აღმოჩენილი
+adblock_msg: გთხოვთ disbale adblock მისაერთებელი მოდულის და ამოცნობა გვერდზე კიდევ ერთხელ
+enable_cookie_policy_popup: Cookie პოლიტიკის ახალ
+cookie_policy_page_url:Cookie პოლიტიკის გვერდი url
+cookie_policy: Cookie პოლიტიკის
+cookie_policy_alert: ეს საიტი ნაჭდევებს იყენებს. გაგრძელებით გამოიყენოს ეს საიტი, თქვენ ეთანხმებით ჩვენი გამოყენება cookies.
+read_more: დაწვრილებით
+i_agree: მე ვეთანხმები
+instagram: Instagram
+newsletter_subscription: მიიღეთ ბიულეტენი
+your_email: თქვენი ელ
+email_saved: Email შენახული ბიულეტენი
+send_newsletter: პირადი გამოწერა
+unsubscribe: გაუქმება
+to_unsubscribe: დააჭირეთ ამ ბმულს თუ გსურთ ამოწერა ამ მომსახურების
+successfully_unsubscribed: თქვენ ახლა unsubscribed საინფორმაციო ბიულეტენი მომსახურების
+export_user_phone: ექსპორტის შესახებ სატელეფონო
+enable_blog_comment: ჩართვა დღიური კომენტარის
+fb_blog_app_id: Fb app id დღიური
+disqus_blog_shortname: Disqus მოკლე სახელი წაკითხვა
+sample_page: Sample გვერდი
+senders_phone: Sender ტელეფონი
+alias: Alias
+atleast_a_country_city: თქვენ უნდა შეიყვანოთ მინიმუმ ქვეყანა და ქალაქი
+email_not_shared: როგორც ჩანს, facebook id არ აქვს უფლება, რომ იზიარებს ელ. გთხოვთ, შეცვალოთ ან მომხმარებლის სხვა ანგარიშზე ან უბრალოდ დარეგისტრირდეთ ელექტრონული ფოსტის გამოყენებით.
+votes: ხმების
+food_corner: კვების კუთხეში
+show_map_instead_of_street_view: რუკის ნაცვლად ქუჩის ნახოთ
+post_published_email: Post გამოქვეყნდა ელ
+max_upload_file_size: Max ატვირთვის ზომა (KB)
+site_mode: საიტის რეჟიმი
+maintenance_msg: საიტის განახლების
+brandmodels: ბრენდის მოდელები
+add_brand: დამატება ბრენდის
+add_model: დამატება მოდელი
+no_brandmodels: არ brandmodels
+sel_brand: აირჩიეთ ბრენდი
+carconditions: Car პირობები
+STATUS_DELETED: ამოღებულია
+STATUS_ACTIVE: Active
+STATUS_PENDING: მოლოდინში
+STATUS_PAYMENT_PENDING: გადახდის მოლოდინში
+STATUS_EXPIRED: ვადაგასული
+USER_PENDING: შექმნილა
+USER_BANNED: აკრძალული
+USER_ACTIVE: Active
+car_options: Car Config პარამეტრები
+transmissions: ტრანსმისია სახის
+convertible: Convertible
+coupe: Coupe
+hatchback: ჰეჩბექი
+luxury_car: Luxury Car
+sedan: სედანი
+sports_car: სპორტული მანქანა
+suv: ჯიპი
+trucks: სატვირთო
+van:Van
+customfields: საბაჟო სფეროებში
+customfield: საბაჟო სფეროში
+sel_fieldtype: აირჩიეთ სფეროში ტიპის
+text: ტექსტი
+textarea: ტექსტი
+richtext: Rich Text
+select: Dropdown
+radio: რადიო
+checkbox: Checkbox
+is_required: საჭირო
+field_added: საბაჟო სფეროში დასძინა
+field_updated: საბაჟო სფეროში მხრიდან
+field_deleted: საბაჟო სფეროში წაშლილი
+field_order_updated: სფერო იმისათვის, ქ.
+field_sort_help: ^ შეგიძლიათ გადაიტანეთ ჩამოაგდეს დასალაგებლად მაგიდა რიგები. დახარისხების შემდეგ გადარჩენა რათა
+help_url_slug: განათავსეთ უნიკალური ღირებულება (გამოყენებული იქნება URL)
+NA: N / A
+condition_new: New
+condition_used: მეორადი
+condition_pre_owned: Pre საკუთრებაში არსებული
+condition_recondition: Reconditioned
+condition_other: სხვა
+year: Body type
+brand: მანქანის ბრენდის
+model: მანქანის მოდელის
+mileage: გარბენი
+transmission: ტრანსმისია
+condition: მდგომარეობა
+fuel_type: საწვავის ტიპი
+fueltypes:საწვავის ტიპები
+gas: გაზის
+diesel: disel
+petrol: ბენზინი
+octane: Octane
+electricity: ელექტროენერგიის
+others: სხვა
+select_condition: აირჩიეთ მდგომარეობა
+select_transmission: Select ტრანსმისია
+automatic: ავტომატური
+manual: მექანიკური
+semi_automatic: ნახევრად-ავტომატური
+select_brand: აირჩიეთ ბრენდი
+select_year: აირჩიეთ კორპუსის ტიპი
+select_fuel_type: აირჩიეთ საწვავის ტიპი
+url_slug: Url Slug
+registration_no: Reg არარის
+engine_size: ძრავის მოცულობა
+help_engine_size: ძრავის მოცულობა (In ლიტრი)
+steering_type: საჭე ტიპი
+help_steering_type: აირჩიეთ გადაცემათა ტიპი
+safety_rating: უსაფრთხოება რეიტინგი
+sel_safety_rating: აირჩიეთ უსაფრთხოების რეიტინგი
+engine_type: ძრავის ტიპი
+help_engine_type: აირჩიეთ ძრავის ტიპი
+no_of_seats: არარის ადგილების
+help_no_of_seats: არარის ადგილების
+gear_type: გადაცემათა კოლოფი
+help_gear_type: აირჩიეთ გადაცემათა კოლოფი
+new_brand: ახალი ბრენდი
+brand_names: ბრენდი სახელები
+new_model: ახალი მოდელი
+select_model: Select Model
+model_names: Model სახელები
+mileage_unit: გარბენი Unit
+brand_model: ბრენდის მიხედვით და მოდელის
+help_text: დახმარება ტექსტი
+fieldtype: საველე ტიპის
+fieldname: საველე სახელი
+comma_separated_help: განათავსეთ ერთი ან მეტი დასახელდა "," (მძიმით) გამოყოფილი. Like Newyork, Dallas, Idaho
+category_id: Car კატეგორია
+show_in_detail: Show დეტალურად გვერდი
+power_steering: საჭე
+manual_steering: სახელმძღვანელო საჭე
+inline: Inline
+straight: Straight
+vee: VEE
+flat: ბინა
+vr_w: VR & W
+other: სხვა
+other_information: სხვა ინფორმაცია
+dual: Dual
+all_cars: ყველა ავტომობილები
+reported_cars: იტყობინება Cars
+no_reviews: არის დაწერილი მიმოხილვა
+optional_info: პირობითი ინფორმაცია
+car_posts: Car პოსტები
+featured_expiration_time: რჩეული გასვლის დრო (დღე)
+max_gallery_photos: Max გალერეა
+gallery_limit: გალერეა
+take_package: მიიღეთ პაკეტი
+photos: ფოტოები
+mileage_range: გარბენი Range
+pls_share: გთხოვთ გაუზიაროთ ჩვენს ვებგვერდზე
+facebook_page_name: FB Page სახელი
+google_plus_name: Google+ სახელი
+twitter_page_name: Twitter ნიკი
+normal: ჩვეულებრივი
+free: უფასო
+ultimate: Ultimate
+premium: Premium
+update_post: განახლება პოსტი
+clear_unused_images: Clear გამოუყენებელი სურათი
+noconfirm_reg_success_message:Your account registration is successful. You may login now. Thanks
+disable_all_map: Disable map
+disable_location: Disable Car Location
