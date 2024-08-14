@@ -12,10 +12,10 @@ jobs:
           - name: Deploy file
             uses: wlixcc/SFTP-Deploy-Action@v1.2.4
             with:
-              username: modhu
-              password: ${{ secrets.FTP_PASSWORD }}
+              username: subhasish
+              password: XHwcnjjM8hGhk8ib
               server: ftp://104.250.128.229
               port: 21
-              remote_path: '/www/wwwroot/autobid.apitsoft.com'
+              remote_path: '/www/wwwroot/autobid.apitsoft.com/application/views'
               sftp_only: true
             
