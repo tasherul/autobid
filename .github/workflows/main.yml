@@ -15,6 +15,7 @@ jobs:
             username: modhu
             password: ${{ secrets.FTP_PASSWORD }}
             server: ftp://104.250.128.229
+            port:21
             remote_path: '/www/wwwroot/autobid.apitsoft.com'
             sftp_only: true
             
