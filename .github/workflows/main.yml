@@ -12,5 +12,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
         server: 104.250.128.229
-        username: modhu
-        password: Ax6ZGfZYJYTGr3Dd
+        username: ftp
+        password: D4pDawaKT5eT5Wkx
+            
