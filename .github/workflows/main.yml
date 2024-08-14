@@ -1,22 +1,21 @@
-name: FTP Deploy
-
-on:
+on: [push]
   push:
-    branches:
-      - main  # Trigger on pushes to the main branch
-
+    branch:
+      main
 jobs:
-  ftp-deploy:
-    name: FTP Deploy
-    runs-on: ubuntu-latest
-
+      deploy_job:
+      runs-on: ubuntu-latest
+      name: deploy
     steps:
-    - name: Checkout Code
-      uses: actions/checkout@v3
-
-    - name: Deploy to FTP Server
-      uses: SamKirkland/FTP-Deploy-Action@4.2.0
-      with:
-        ftp-server: ftp://104.250.128.229
-        ftp-username: modhu
-        ftp-password: ${{ secrets.FTP_PASSWORD }}
+        - name: Checkout
+        uses: actions/checkout@v2
+        - name: Deploy file
+        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
+        with:
+            username: modhu
+            password: ${{ secrets.FTP_PASSWORD }}
+            server: ftp://104.250.128.229
+            port: 21
+            remote_path: '/www/wwwroot/autobid.apitsoft.com'
+            sftp_only: true
+            
