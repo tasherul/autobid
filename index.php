@@ -1,7 +1,7 @@
 <?php
 
 /**
- * CodeIgniter rajib prodhan ador
+ * CodeIgniter rajib prodhan ador peash
  *
  * An open source application development framework for PHP
  *
