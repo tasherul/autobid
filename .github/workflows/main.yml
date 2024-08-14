@@ -1,21 +1,17 @@
-on:
-  push:
-    branches:
-      main
+on: push
+name: 🚀 Deploy website on push
 jobs:
-      deploy_job:
-        runs-on: ubuntu-latest
-        name: deploy
-        steps:
-          - name: Checkout
-            uses: actions/checkout@v2
-          - name: Deploy file
-            uses: wlixcc/SFTP-Deploy-Action@v1.2.4
-            with:
-              username: ftp
-              password: D4pDawaKT5eT5Wkx
-              server: ftp://104.250.128.229
-              port: 21
-              remote_path: '/www/wwwroot/ftp/'
-              sftp_only: true
+  web-deploy:
+    name: 🎉 Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v4
+    
+    - name: 📂 Sync files
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      with:
+        server: 104.250.128.229
+        username: ftp
+        password: D4pDawaKT5eT5Wkx
             
